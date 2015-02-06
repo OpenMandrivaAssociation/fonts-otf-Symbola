@@ -1,7 +1,7 @@
 %define fontname	Symbola
 %define name		fonts-otf-%{fontname}
 %define version		2.53
-%define release		%mkrel 3
+%define release		4
 
 %define fontdir		%{_datadir}/fonts/OTF/%{fontname}
 %define fontconfdir	%{_sysconfdir}/X11/fontpath.d
